@@ -1,0 +1,14 @@
+Metadata-Version: 2.1
+Name: py-distillation
+Version: 1.0.0
+Summary: packge for solving distillation problems with Pochon Sawarit and McCabe-Theile methods
+Home-page: https://github.com/darasamii/py_distillation
+Author: Dara Samii
+Author-email: darasamii@outlook.com
+License: UNKNOWN
+Platform: UNKNOWN
+Requires-Python: >=3.6
+License-File: LICENSE
+
+UNKNOWN
+

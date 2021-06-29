@@ -1,0 +1,11 @@
+[build-system]
+
+requires = [
+    "numpy>=1.19.5",
+    "scipy>=1.4.1",
+    "matplotlib>=3.2.2",
+    "setuptools>=42",
+    "wheel",
+]
+
+build-backend = "setuptools.build_meta"
