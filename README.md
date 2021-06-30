@@ -17,7 +17,11 @@ with this package you can solve:
 * Multi Feed Problems
 * Side Stream Problems
 * Open Steam Problems
+---
+## Installation
+easy type:
 
+`pip install pydistillation`
 ---
 ## Examples
 
