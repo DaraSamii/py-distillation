@@ -19,9 +19,11 @@ with this package you can solve:
 * Open Steam Problems
 ---
 ## Installation
+
 easy type:
 
 `pip install pydistillation`
+
 ---
 ## Examples
 
