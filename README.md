@@ -20,6 +20,8 @@ with this package you can solve:
 ---
 ## Installation
 
+[Pypi page](https://pypi.org/project/pydistillation/)
+
 easy type:
 
 `pip install pydistillation`
