@@ -1,0 +1,8 @@
+LICENSE
+README.md
+pyproject.toml
+setup.cfg
+pydistillation/pydistillation.egg-info/PKG-INFO
+pydistillation/pydistillation.egg-info/SOURCES.txt
+pydistillation/pydistillation.egg-info/dependency_links.txt
+pydistillation/pydistillation.egg-info/top_level.txt
